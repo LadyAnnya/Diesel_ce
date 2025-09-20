@@ -59,3 +59,17 @@ Dynamic:
 - Bens Crossing
 - Camp near Alcatraz
 - Broken Train Bridge
+
+<usage name="Town"/>
+<usage name="Village"/>
+<usage name="Coast"/>
+<usage name="Farm"/>
+<usage name="Industrial"/>
+<usage name="Office"/>
+<usage name="School"/>
+<usage name="Prison"/>
+<usage name="Lunapark"/>
+<usage name="SeasonalEvent"/>
+<usage name="ContaminatedArea"/>
+
+

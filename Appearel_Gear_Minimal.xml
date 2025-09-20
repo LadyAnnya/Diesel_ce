@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+  <!-- HEADWEAR -->
+  <type name="Diesel_Bandana_Black"/>
+  <type name="Diesel_Bandana_Camo"/>
+  <type name="Diesel_Bandana_Green"/>
+  <type name="Diesel_Bandana_Red"/>
+  <type name="Diesel_Bandana_White"/>
+  <type name="Diesel_Cowboyhat_Brown"/>
+  <type name="Diesel_Cowboyhat_Tan"/>
+  <type name="Diesel_Cowboyhat_White"/>
+  <type name="Diesel_Beaniehat_Black"/>
+  <type name="Diesel_Beaniehat_Green"/>
+  <type name="Diesel_Beaniehat_Red"/>
+  <type name="Diesel_Balaclava_Black"/>
+  <type name="Diesel_Balaclava_Green"/>
+  <type name="Diesel_MedicMask_Blue"/>
+  <type name="Diesel_MedicMask_Green"/>
+  <type name="Diesel_GasMask"/>
+  <type name="Diesel_GP5GasMask"/>
+  <type name="Diesel_AbGasMask"/>
+
+  <!-- BODYWEAR -->
+  <type name="Diesel_Jacket_Black"/>
+  <type name="Diesel_Jacket_Green"/>
+  <type name="Diesel_Jacket_Red"/>
+  <type name="Diesel_M65Jacket_Black"/>
+  <type name="Diesel_M65Jacket_Green"/>
+  <type name="Diesel_AdminJacket_Blue"/>
+  <type name="Diesel_FireJacket_Red"/>
+  <type name="Diesel_GorkaJacket_Camo"/>
+  <type name="Diesel_HuntingJacket_Brown"/>
+  <type name="Diesel_AdminVest_Blue"/>
+  <type name="Diesel_AttackVest_Green"/>
+  <type name="Diesel_BallisticVest_Black"/>
+  <type name="Diesel_SmershVest_Camo"/>
+  <type name="Diesel_TShirt_Black"/>
+  <type name="Diesel_TShirt_White"/>
+  <type name="Diesel_MiniDress_Red"/>
+  <type name="Diesel_SkeleHoodie"/>
+  <type name="Diesel_BloodyHoodie"/>
+
+  <!-- LEGWEAR -->
+  <type name="Diesel_Pants_Black"/>
+  <type name="Diesel_Pants_Green"/>
+  <type name="Diesel_GorkaPants_Camo"/>
+  <type name="Diesel_HunterPants_Brown"/>
+  <type name="Diesel_Medic_Pants_Blue"/>
+  <type name="Diesel_Leggings_Black"/>
+  <type name="Diesel_CargoPants_Green"/>
+
+  <!-- FOOTWEAR -->
+  <type name="Diesel_CombatBoots_Black"/>
+  <type name="Diesel_MilitaryBoots_Green"/>
+  <type name="Diesel_MedicBoots"/>
+  <type name="Diesel_Wellies_Red"/>
+  <type name="Diesel_MntHiking_Boots"/>
+  <type name="Diesel_HikingLow_Black"/>
+  <type name="Diesel_JoggingShoes_White"/>
+
+  <!-- GLOVES -->
+  <type name="Diesel_TacticalGloves_Black"/>
+  <type name="Diesel_HOTGloves_Red"/>
+  <type name="Diesel_NOTHOTGloves_Blue"/>
+  <type name="Diesel_NBCGloves_Green"/>
+
+  <!-- ACCESSORIES -->
+  <type name="Diesel_Armband_Black"/>
+  <type name="Diesel_Armband_Red"/>
+  <type name="Armband_Green"/>
+  <type name="Diesel_VestHolster_Black"/>
+  <type name="Diesel_VestPouches_Green"/>
+  <type name="Diesel_AttackVestPouches_Camo"/>
+  <type name="Diesel_Ghillie_Suit"/>
+  <type name="Diesel_GhillieHood_Camo"/>
+  <type name="Diesel_GhillieAtt_Camo"/>
+  <type name="Diesel_Ghillie_Armband_Brown"/>
+
+  <!-- BAGS & CONTAINERS -->
+  <type name="Diesel_TortillaBag_Black"/>
+  <type name="Diesel_TortillaBag_SM_Green"/>
+  <type name="Diesel_WpGearBag_Camo"/>
+  <type name="Diesel_GearCase_Black"/>
+  <type name="Diesel_SupportCase"/>
+  <type name="Diesel_Canteen_Green"/>
+  <type name="Diesel_SportBottle_Blue"/>
+  <type name="Diesel_SmershBag_Camo"/>
+  <type name="Diesel_LargeTent_Green"/>
+  <type name="Diesel_MediumTent_Brown"/>
+  <type name="Diesel_PartyTent_Red"/>
+  <type name="Diesel_CarTent_Black"/>
+  <type name="Diesel_SeaChest"/>
+  <type name="Diesel_KeepSakeChest"/>
+  <type name="Diesel_Barrel"/>
+
+</types>

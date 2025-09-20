@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Diesel Mod Loot Configuration -->
+<types>
+	<!-- 🧢 HEADWEAR -->
+	<type name="Diesel_Bandana_Black">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>50</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Coast"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="Diesel_Cowboyhat_Brown">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>60</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="Diesel_Beaniehat_Black">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>55</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Village"/>
+		<usage name="Coast"/>
+		<value name="Tier1"/>
+	</type>
+	<!-- 🧥 BODYWEAR -->
+	<type name="Diesel_Jacket_Black">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_TShirt_White">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>40</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<value name="Tier1"/>
+	</type>
+	<!-- 👖 LEGWEAR -->
+	<type name="Diesel_Pants_Black">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>80</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_CargoPants_Green">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>85</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<value name="Tier2"/>
+	</type>
+	<!-- 🥾 FOOTWEAR -->
+	<type name="Diesel_CombatBoots_Black">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>90</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_JoggingShoes_White">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>60</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<value name="Tier1"/>
+	</type>
+	<!-- 🧤 GLOVES -->
+	<type name="Diesel_TacticalGloves_Black">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>70</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<value name="Tier2"/>
+	</type>
+	<!-- 🦺 ACCESSORIES -->
+	<type name="Diesel_Armband_Black">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>30</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<value name="Tier1"/>
+	</type>
+</types>

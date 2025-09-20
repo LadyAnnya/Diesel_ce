@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- MEDICAL SUPPLIES -->
+	<type name="Diesel_Bandage">
+		<nominal>4</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>40</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="medical"/>
+		<usage name="Town"/>
+		<usage name="Office"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_Splint">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>60</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="medical"/>
+		<usage name="Farm"/>
+		<usage name="Town"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_FirstAidKit_Blue">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="medical"/>
+		<usage name="Office"/>
+		<usage name="Town"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Diesel_HPInjector">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>120</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="medical"/>
+		<usage name="Office"/>
+		<usage name="Industrial"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Diesel_VitaMax">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>90</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="medical"/>
+		<usage name="Town"/>
+		<usage name="Farm"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_Tetra2">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>85</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="medical"/>
+		<usage name="Town"/>
+		<usage name="Office"/>
+		<value name="Tier2"/>
+	</type>
+	<!-- CRAFTING TOOLS -->
+	<type name="Diesel_CraftingKit">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>110</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Diesel_ToolSteel">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>70</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_SteelFragments">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>60</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_LongWoodHandle">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>50</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Farm"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_Chisel">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>65</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<usage name="Office"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_EpoxyPutty">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>75</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<usage name="Office"/>
+		<value name="Tier3"/>
+	</type>
+</types>

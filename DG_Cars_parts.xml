@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- 🚗 VEHICLES -->
+	<type name="Diesel_OffroadHatchback_Black">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>500</cost>
+		<flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehicles"/>
+		<usage name="Industrial"/>
+		<usage name="Shed"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Diesel_OffroadHatchBack_Green">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>500</cost>
+		<flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehicles"/>
+		<usage name="Industrial"/>
+		<usage name="Shed"/>
+		<value name="Tier3"/>
+	</type>
+	<type name="Atv_Diesel_Camo">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>450</cost>
+		<flags count_in_cargo="0" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehicles"/>
+		<usage name="Industrial"/>
+		<usage name="Shed"/>
+		<value name="Tier3"/>
+	</type>
+	<!-- 🔧 VEHICLE PARTS -->
+	<type name="Diesel_OffroadHatchbackDoors_Black">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>150</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehicleparts"/>
+		<usage name="Industrial"/>
+		<usage name="Shed"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_OffroadHatchbackHood_Green">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>140</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehicleparts"/>
+		<usage name="Industrial"/>
+		<usage name="Shed"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_OffroadHatchbackTrunk_Red">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>140</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehicleparts"/>
+		<usage name="Industrial"/>
+		<usage name="Shed"/>
+		<value name="Tier2"/>
+	</type>
+</types>

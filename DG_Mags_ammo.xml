@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- 🧢 Hats & Caps -->
+	<type name="Diesel_BallCap_Black">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>50</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="Diesel_BallCap_Red">
+		<nominal>3</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>50</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<value name="Tier1"/>
+	</type>
+	<type name="Diesel_RadarCap_Green">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>60</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="Diesel_RadarCap_Blue">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>60</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Industrial"/>
+		<value name="Tier2"/>
+	</type>
+</types>

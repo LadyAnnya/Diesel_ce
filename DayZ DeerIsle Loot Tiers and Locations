@@ -59,7 +59,7 @@ Dynamic:
 - Bens Crossing
 - Camp near Alcatraz
 - Broken Train Bridge
-
+<!--Structure Usages-->
 <usage name="Town"/>
 <usage name="Village"/>
 <usage name="Coast"/>
@@ -71,5 +71,10 @@ Dynamic:
 <usage name="Lunapark"/>
 <usage name="SeasonalEvent"/>
 <usage name="ContaminatedArea"/>
-
-
+Military & Tactical Zones
+<usage name="Military"/>
+<usage name="Police"/>
+<usage name="Medic"/>
+<usage name="Firefighter"/>
+Wilderness & Hunting
+<usage name="Hunting"/>
